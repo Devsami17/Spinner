@@ -8,7 +8,7 @@ spinnerItems.forEach((item) => {
       emailSubject.value = "Lunch meeting";
       emailBody.value = `Hey Mark,\nWhen are you available for a call?\nI am in the office until 5:00.\n\nThanks,\nBrian`;
     } else {
-      alert(`Clicked: ${item.textContent}`);
+      
     }
   });
 });
